@@ -12,3 +12,5 @@ Ponto Extra 6 - Dimensionamento de cachê
 Ponto Extra 7 - Laudo sobre o processador AMD Athlon 64
 
 Ponto Extra 8 - Explicação sobre os tipos de RAIDs
+
+Ponto Extra 9 - Explicação uma cpu utilizada para o processamento de jogos
